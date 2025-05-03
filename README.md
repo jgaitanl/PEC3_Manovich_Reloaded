@@ -19,8 +19,8 @@ Esta afirmación destaca la capacidad del software para reconfigurar tanto la in
 Partiendo de estos principios, en este ejercicio se presentan dos ejemplos contemporáneos que ilustran claramente esta evolución en la cultura digital: **Google Lens** y **Timelooper** . Ambos casos evidencian no solo la fusión de distintos medios y disciplinas —como la fotografía, la geolocalización, la inteligencia artificial o la Realidad aumentada —, sino que también reflejan cómo **el software redefine nuestras prácticas culturales cotidianas** . Estas herramientas tecnológicas proponen nuevos modos de **percepción** , **interacción** y **memoria** , en los que lo físico y lo digital convergen continuamente, dando lugar a una experiencia mediática profundamente híbrida y transcodificada.
 
 -------------------------------------------
+<h1 align="center">Ejemplo 1 de Hibridación: Google Lens</h1>
 <p align="center">
-  <h3>Ejemplo 1 de Hibridación: Google Lens</h3><br>
   <img src="https://geeksroom.com/wp-content/uploads/2021/10/Google-Lens-Logo.jpg" width="300">
 </p>
 
