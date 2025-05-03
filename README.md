@@ -1,4 +1,4 @@
-﻿# ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.001.jpeg)**PEC3 - Manovich Reloaded**
+﻿# ![foto1](https://www.timelooper.com/images/exhibition-design-home/museum_solutions_1.jpg)**PEC3 - Manovich Reloaded**
 
 **Autor:**  Javier Gaitán Larrubia
 
