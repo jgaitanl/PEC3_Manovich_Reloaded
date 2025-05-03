@@ -19,16 +19,15 @@ Esta afirmación destaca la capacidad del software para reconfigurar tanto la in
 Partiendo de estos principios, en este ejercicio se presentan dos ejemplos contemporáneos que ilustran claramente esta evolución en la cultura digital: **Google Lens** y **Timelooper** . Ambos casos evidencian no solo la fusión de distintos medios y disciplinas —como la fotografía, la geolocalización, la inteligencia artificial o la Realidad aumentada —, sino que también reflejan cómo **el software redefine nuestras prácticas culturales cotidianas** . Estas herramientas tecnológicas proponen nuevos modos de **percepción** , **interacción** y **memoria** , en los que lo físico y lo digital convergen continuamente, dando lugar a una experiencia mediática profundamente híbrida y transcodificada.
 
 -------------------------------------------
-<h1 align="center">Ejemplo 1 de Hibridación: Google Lens</h1>
+<h1 align="center" style="color:darkblue;">Ejemplo 1 de Hibridación: Google Lens</h1>
 <p align="center">
-  <img src="https://geeksroom.com/wp-content/uploads/2021/10/Google-Lens-Logo.jpg" width="300">
+  <img src="https://geeksroom.com/wp-content/uploads/2021/10/Google-Lens-Logo.jpg" width="200">
 </p>
 
 **Google Lens** es una aplicación desarrollada por ***Google*** que permite **interpretar el mundo visual** mediante tecnologías avanzadas de **inteligencia artificial** y **machine learning**. A través de la cámara de un dispositivo —ya sea un teléfono móvil, una tablet o un iPad—, el usuario puede apuntar hacia cualquier objeto, texto o paisaje, y recibir información instantánea: reconocimiento de objetos, traducción de textos en tiempo real, identificación de especies animales o vegetales, escaneo de códigos QR, sugerencias de compra en tiendas online, entre muchas otras funciones.
-
-![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.003.jpeg)
-
-`                                                                                          `*Ejemplo de busqueda de información sobre una imagen real*
+<p align="center">
+ <img src="https://blog.phonehouse.es/wp-content/uploads/2019/06/Google-Lens.jpeg" width="400"> <br>
+*Ejemplo de busqueda de información sobre una imagen real* </p>
 
 Esta experiencia representa mucho más que un simple avance tecnológico; implica una profunda ***fusión entre hardware y software***: la cámara del dispositivo se convierte en una extensión de la percepción humana, mientras que el procesamiento mediante inteligencia artificial redefine la forma en que **vemos**, **interpretamos** y **navegamos** por el entorno. Basta con enfocar la cámara para acceder a una capa de datos que antes estaba oculta a la percepción ordinaria.
 
