@@ -20,8 +20,8 @@ Partiendo de estos principios, en este ejercicio se presentan dos ejemplos conte
 
 -------------------------------------------
 <p align="center">
-  <h2>Ejemplo 1 de Hibridación: Google Lens</h2><br>
-  <img src="https://geeksroom.com/wp-content/uploads/2021/10/Google-Lens-Logo.jpg" width="200">
+  <h3>Ejemplo 1 de Hibridación: Google Lens</h3><br>
+  <img src="https://geeksroom.com/wp-content/uploads/2021/10/Google-Lens-Logo.jpg" width="300">
 </p>
 
 **Google Lens** es una aplicación desarrollada por ***Google*** que permite **interpretar el mundo visual** mediante tecnologías avanzadas de **inteligencia artificial** y **machine learning**. A través de la cámara de un dispositivo —ya sea un teléfono móvil, una tablet o un iPad—, el usuario puede apuntar hacia cualquier objeto, texto o paisaje, y recibir información instantánea: reconocimiento de objetos, traducción de textos en tiempo real, identificación de especies animales o vegetales, escaneo de códigos QR, sugerencias de compra en tiendas online, entre muchas otras funciones.
