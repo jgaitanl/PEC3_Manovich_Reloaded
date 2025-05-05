@@ -42,7 +42,7 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 - **Variabilidad:** La información ofrecida por Lens no es estática ni universal; varía en función de múltiples factores como la localización geográfica, el idioma configurado, el historial de búsquedas del usuario, y el contexto cultural. Así, cada experiencia de uso es única y personalizada.
 - **Transcodificación:** Los datos físicos capturados por la cámara (imágenes de objetos, textos, rostros, monumentos) se convierten en **información digital manipulable**. Este cambio de formato permite que el mundo físico sea procesado, categorizado, analizado y recombinado según lógicas computacionales.
 
-![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.004.png)
+
 <p align="center">
  <img src="https://resizer.iproimg.com/unsafe/1200x674/filters:format(webp):quality(85)/https://assets.iproup.com/assets/jpg/2019/05/4191_landscape.jpg" width="400"> <br>
 *Ejemplo de busqueda de negocio con la aplicación* </p>
@@ -50,7 +50,10 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 
 **Google Lens**, por tanto, transforma la cámara de los dispositivos móviles en una **potente interfaz de conocimiento e interacción**. Ya no utilizamos la cámara solo para capturar imágenes; la utilizamos para acceder a **capas invisibles de significado**, para **traducir signos** del mundo físico en información digital accesible, y para **tomar decisiones** basadas en datos interpretados automáticamente. Esta reconfiguración redefine radicalmente nuestra manera de **percibir, comprender y actuar** en el entorno cotidiano, en línea con lo que Lev Manovich describe como la emergencia de una cultura digital completamente **mediada por el software**.
 
-Enlace video de youtube de como funciona Google Lens [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao)
+Esta aplicación es un claro ejemplo de hibridación de medios, donde imagen, texto, datos, localización y algoritmos que se unen en una única experiencia digital. Refleja con precisión lo que **Lev Manovich** define como una cultura mediada por software, en la que los medios ya no son estáticos ni separados, sino integrados, automatizados y adaptativos, reconfigurando radicalmente la relación entre humanos, tecnología y conocimiento.
+
+<h3>Recursos Multimedia :</h3> 
+- Enlace video de youtube de como funciona Google Lens [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao)
 
 Enlace oficial: <https://lens.google/>
 
