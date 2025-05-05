@@ -18,6 +18,10 @@ Esta afirmación destaca la capacidad del software para reconfigurar tanto la in
 
 Partiendo de estos principios, en este ejercicio se presentan dos ejemplos contemporáneos que ilustran claramente esta evolución en la cultura digital: **Google Lens** y **Timelooper** . Ambos casos evidencian no solo la fusión de distintos medios y disciplinas —como la fotografía, la geolocalización, la inteligencia artificial o la Realidad aumentada —, sino que también reflejan cómo **el software redefine nuestras prácticas culturales cotidianas** . Estas herramientas tecnológicas proponen nuevos modos de **percepción** , **interacción** y **memoria** , en los que lo físico y lo digital convergen continuamente, dando lugar a una experiencia mediática profundamente híbrida y transcodificada.
 
+**La hibridación de medios** es un fenómeno donde se combinan múltiples formas de medios (como texto, imagen, video, audio, animación, interactividad, etc.) para crear nuevos medios complejos, que no pertenecen exclusivamente a una categoría tradicional.
+
+Este proceso ocurre principalmente gracias a la digitalización, que convierte todos los medios a un mismo lenguaje binario (código), permitiendo su manipulación conjunta a través del software.
+
 -------------------------------------------
 <h1 align="center" style="color:darkblue;">Ejemplo 1 de Hibridación: Google Lens</h1>
 <p align="center">
@@ -39,8 +43,10 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 - **Transcodificación:** Los datos físicos capturados por la cámara (imágenes de objetos, textos, rostros, monumentos) se convierten en **información digital manipulable**. Este cambio de formato permite que el mundo físico sea procesado, categorizado, analizado y recombinado según lógicas computacionales.
 
 ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.004.png)
+<p align="center">
+ <img src="https://resizer.iproimg.com/unsafe/1200x674/filters:format(webp):quality(85)/https://assets.iproup.com/assets/jpg/2019/05/4191_landscape.jpg" width="400"> <br>
+*Ejemplo de busqueda de negocio con la aplicación* </p>
 
-*Ejemplo de busqueda de negocio con google lens*
 
 **Google Lens**, por tanto, transforma la cámara de los dispositivos móviles en una **potente interfaz de conocimiento e interacción**. Ya no utilizamos la cámara solo para capturar imágenes; la utilizamos para acceder a **capas invisibles de significado**, para **traducir signos** del mundo físico en información digital accesible, y para **tomar decisiones** basadas en datos interpretados automáticamente. Esta reconfiguración redefine radicalmente nuestra manera de **percibir, comprender y actuar** en el entorno cotidiano, en línea con lo que Lev Manovich describe como la emergencia de una cultura digital completamente **mediada por el software**.
 
