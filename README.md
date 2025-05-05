@@ -53,13 +53,16 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 Esta aplicación es un claro ejemplo de hibridación de medios, donde imagen, texto, datos, localización y algoritmos que se unen en una única experiencia digital. Refleja con precisión lo que **Lev Manovich** define como una cultura mediada por software, en la que los medios ya no son estáticos ni separados, sino integrados, automatizados y adaptativos, reconfigurando radicalmente la relación entre humanos, tecnología y conocimiento.
 
 <h3>Recursos Multimedia :</h3> 
-- ChicaGeek, (2024) Enlace video de youtube de como funciona Google Lens [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao)
+- ChicaGeek, (2024) Enlace video de youtube de como funciona Google Lens [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao) <br>
 - Xataka. (2021) [GOOGLE LENS TODO LO QUE PUEDES HACER Traducir textos, detectar especies y hasta hacer ecuaciones] (https://www.youtube.com/watch?v=kQSOXlhtRUs)
 Enlace oficial: <https://lens.google/>
 
 -----
-#
-# **Ejemplo 2 Hibridación: Timelooper ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.005.jpeg)**
+<h1 align="center" style="color:darkblue;">Ejemplo 1 de Hibridación: Timelooper</h1>
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/730474328010031104/iPF92VG9_400x400.jpg" width="200">
+</p>
+
 
 **Timelooper** es una innovadora plataforma digital que combina tecnologías de **realidad virtual (VR)** y **realidad aumentada (AR)** para ofrecer una experiencia transformadora de inmersión histórica. Su propuesta no se limita a complementar el aprendizaje tradicional o el turismo cultural, sino que lo modifica por completo, permitiendo a los usuarios **revivir eventos históricos significativos desde la ubicación exacta en que ocurrieron**. A través de un visor VR o incluso desde la pantalla de un teléfono móvil, el entorno físico actual se convierte en una ventana al pasado, superponiendo recreaciones tridimensionales, paisajes sonoros y animaciones en tiempo real que reconstruyen momentos emblemáticos de la historia.
 
