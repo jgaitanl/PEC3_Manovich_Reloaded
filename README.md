@@ -53,8 +53,8 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 Esta aplicación es un claro ejemplo de hibridación de medios, donde imagen, texto, datos, localización y algoritmos que se unen en una única experiencia digital. Refleja con precisión lo que **Lev Manovich** define como una cultura mediada por software, en la que los medios ya no son estáticos ni separados, sino integrados, automatizados y adaptativos, reconfigurando radicalmente la relación entre humanos, tecnología y conocimiento.
 
 <h3>Recursos Multimedia :</h3> 
-- Enlace video de youtube de como funciona Google Lens [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao)
-
+- ChicaGeek, (2024) Enlace video de youtube de como funciona Google Lens [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao)
+- Xataka. (2021) [GOOGLE LENS TODO LO QUE PUEDES HACER Traducir textos, detectar especies y hasta hacer ecuaciones] (https://www.youtube.com/watch?v=kQSOXlhtRUs)
 Enlace oficial: <https://lens.google/>
 
 -----
