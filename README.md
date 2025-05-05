@@ -60,7 +60,7 @@ Enlace oficial: <https://lens.google/>
 -----
 <h1 align="center" style="color:darkblue;">Ejemplo 2 de Hibridación: Timelooper</h1>
 <p align="center"><br>
-  <img src="https://pbs.twimg.com/profile_images/730474328010031104/iPF92VG9_400x400.jpg" width="200">
+  <img src="https://pbs.twimg.com/profile_images/730474328010031104/iPF92VG9_400x400.jpg" width="150">
 </p>
 
 
