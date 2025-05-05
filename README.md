@@ -58,7 +58,7 @@ Esta aplicación es un claro ejemplo de hibridación de medios, donde imagen, te
 Enlace oficial: <https://lens.google/>
 
 -----
-<h1 align="center" style="color:darkblue;">Ejemplo 1 de Hibridación: Timelooper</h1>
+<h1 align="center" style="color:darkblue;">Ejemplo 2 de Hibridación: Timelooper</h1>
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/730474328010031104/iPF92VG9_400x400.jpg" width="200">
 </p>
