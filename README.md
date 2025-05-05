@@ -16,7 +16,7 @@ En su obra *El software toma el mando* , Lev Manovich analiza cómo la crecien
 
 Esta afirmación destaca la capacidad del software para reconfigurar tanto la infraestructura técnica como la experiencia humana asociada a los medios.
 
-Partiendo de estos principios, en este ejercicio se presentan dos ejemplos contemporáneos que ilustran claramente esta evolución en la cultura digital: **Google Lens** y **Timelooper** . Ambos casos evidencian no solo la fusión de distintos medios y disciplinas —como la fotografía, la geolocalización, la inteligencia artificial o la Realidad aumentada —, sino que también reflejan cómo **el software redefine nuestras prácticas culturales cotidianas** . Estas herramientas tecnológicas proponen nuevos modos de **percepción** , **interacción** y **memoria** , en los que lo físico y lo digital convergen continuamente, dando lugar a una experiencia mediática profundamente híbrida y transcodificada.
+Partiendo de estos principios, en este ejercicio se presentan dos ejemplos contemporáneos que ilustran claramente esta evolución en la cultura digital: **Google Lens** y **Timelooper** . Ambos casos evidencian no solo la fusión de distintos medios y disciplinas —como la fotografía, la geolocalización, la inteligencia artificial o la Realidad aumentada —, sino que también reflejan cómo **el software redefine nuestras prácticas culturales cotidianas** . Estas herramientas tecnológicas proponen nuevos modos de **percepción**, **interacción** y **memoria**, en los que lo físico y lo digital convergen continuamente, dando lugar a una experiencia mediática profundamente híbrida y transcodificada.
 
 **La hibridación de medios** es un fenómeno donde se combinan múltiples formas de medios (como texto, imagen, video, audio, animación, interactividad, etc.) para crear nuevos medios complejos, que no pertenecen exclusivamente a una categoría tradicional.
 
@@ -59,7 +59,7 @@ Enlace oficial: <https://lens.google/>
 
 -----
 <h1 align="center" style="color:darkblue;">Ejemplo 2 de Hibridación: Timelooper</h1>
-<p align="center">
+<p align="center"><br>
   <img src="https://pbs.twimg.com/profile_images/730474328010031104/iPF92VG9_400x400.jpg" width="200">
 </p>
 
@@ -70,7 +70,7 @@ Enlace oficial: <https://lens.google/>
 
 Lo más destacable de esta aplicación es su capacidad para **generar una conexión emocional, espacial y sensorial con los hechos históricos**. La experiencia no es pasiva ni distante: el usuario se encuentra “dentro” del acontecimiento, participando de una narrativa envolvente donde se intercambian las fronteras entre espectador y protagonista. De este modo, la ciudad, el monumento o el espacio urbano dejan de ser meros escenarios para convertirse en auténticos **teatros del tiempo**, donde el pasado cobra vida mediante capas digitales interactivas. Este enfoque convierte a Timelooper en mucho más que una herramienta educativa o turística: es un medio narrativo que **fusiona la historia con la vivencia directa**, marcando un punto de inflexión en la forma en que accedemos al conocimiento.
 
-Desde el punto de vista conceptual, esta propuesta responde a las lógicas de los **nuevos medios digitales**, particularmente a lo que ***Lev Manovich identifica como principios fundamentales: modularidad, automatización, variabilidad y transcodificación***. Cada escena histórica es un módulo independiente; el sistema automatiza su activación mediante geolocalización; la experiencia varía según el dispositivo, el idioma o el tipo de acceso; y finalmente, los datos históricos se traducen en **experiencias multimedia interactivas** que transforman nuestra percepción del espacio y del tiempo.
+Desde el punto de vista conceptual, esta propuesta responde a las lógicas de los **nuevos medios digitales**, particularmente a lo que **Lev Manovich identifica como principios fundamentales: modularidad, automatización, variabilidad y transcodificación**. Cada escena histórica es un módulo independiente; el sistema automatiza su activación mediante geolocalización; la experiencia varía según el dispositivo, el idioma o el tipo de acceso; y finalmente, los datos históricos se traducen en **experiencias multimedia interactivas** que transforman nuestra percepción del espacio y del tiempo.
 
 Además, Timelooper se inscribe dentro del concepto de **remediación** propuesto por Bolter y Grusin, al apropiarse de formas tradicionales de representación (el documental, la recreación museográfica, el tour guiado) y adaptarlas a una lógica interactiva y multisensorial. Así, se establece una nueva forma de consumir y producir contenido histórico, donde lo digital no reemplaza al mundo físico, sino que **lo expande, lo resignifica y lo recontextualiza**.
 
