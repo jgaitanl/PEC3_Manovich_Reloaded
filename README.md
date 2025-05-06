@@ -67,8 +67,8 @@ Enlace oficial: <https://lens.google/>
 **Timelooper** es una innovadora plataforma digital que combina tecnologías de **realidad virtual (VR)** y **realidad aumentada (AR)** para ofrecer una experiencia transformadora de inmersión histórica. Su propuesta no se limita a complementar el aprendizaje tradicional o el turismo cultural, sino que lo modifica por completo, permitiendo a los usuarios **revivir eventos históricos significativos desde la ubicación exacta en que ocurrieron**. A través de un visor VR o incluso desde la pantalla de un teléfono móvil, el entorno físico actual se convierte en una ventana al pasado, superponiendo recreaciones tridimensionales, paisajes sonoros y animaciones en tiempo real que reconstruyen momentos emblemáticos de la historia.
 <p align="center"><br>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzWiuOpJ1U5Szd8RghfM4Fp5F8mTYl5Of3A&s" width="650">
-</p>
 
+https://gust.com/companies/timelooper </p>
 ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.006.jpeg)
 
 Lo más destacable de esta aplicación es su capacidad para **generar una conexión emocional, espacial y sensorial con los hechos históricos**. La experiencia no es pasiva ni distante: el usuario se encuentra “dentro” del acontecimiento, participando de una narrativa envolvente donde se intercambian las fronteras entre espectador y protagonista. De este modo, la ciudad, el monumento o el espacio urbano dejan de ser meros escenarios para convertirse en auténticos **teatros del tiempo**, donde el pasado cobra vida mediante capas digitales interactivas. Este enfoque convierte a Timelooper en mucho más que una herramienta educativa o turística: es un medio narrativo que **fusiona la historia con la vivencia directa**, marcando un punto de inflexión en la forma en que accedemos al conocimiento.
