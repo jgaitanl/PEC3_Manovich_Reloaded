@@ -79,8 +79,10 @@ La apuesta va incluso más allá de lo tecnológico: propone una forma de **reen
 En definitiva, este dispositivo representa un claro ejemplo del potencial de las tecnologías emergentes para **transformar nuestra relación con la memoria cultural**, permitiéndonos no solo recordar, sino también vivir el pasado de forma activa, inmersiva y significativa.
 
 ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.007.png)
+<p align="center">
+ <img src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-07fio02l78osm7f7gh5v8ar9u1-20160314193556.Medi.jpeg" width="400"> <br>
+foto de https://dc-cdn.s3-ap-southeast-1.amazonaws.com </p>
 
-https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-07fio02l78osm7f7gh5v8ar9u1-20160314193556.Medi.jpeg
 
 ### **Análisis desde los principios de Manovich:**
 - **Modularidad**: Cada recreación histórica dentro de Timelooper es una unidad autónoma, que puede ser accedida de forma independiente. Estas escenas están organizadas como módulos digitales reutilizables, lo que permite a los desarrolladores y curadores de contenido construir nuevas experiencias sumando o reordenando elementos sin modificar el sistema entero.
