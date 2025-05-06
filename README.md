@@ -92,8 +92,8 @@ foto de https://dc-cdn.s3-ap-southeast-1.amazonaws.com </p>
 
 ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.008.jpeg)
 
-[Como Timelooper te transportara al pasado](https://www.youtube.com/watch?v=ifnIF0HUo0M)[](https://www.youtube.com/watch?v=ifnIF0HUo0M)
-
+- Trailblazers: Como Timelooper te transportara al pasado (2019)[Como Timelooper te transportara al pasado](https://www.youtube.com/watch?v=ifnIF0HUo0M)[](https://www.youtube.com/watch?v=ifnIF0HUo0M)
+- Euronews, Viajando virtualmente en el tiempo - hi-tech (2016) https://www.youtube.com/watch?v=yadmyPLvvWs
 [](https://www.youtube.com/watch?v=ifnIF0HUo0M)
 
 Enlace oficial: <https://timelooper.com/>
