@@ -65,6 +65,9 @@ Enlace oficial: <https://lens.google/>
 
 
 **Timelooper** es una innovadora plataforma digital que combina tecnologías de **realidad virtual (VR)** y **realidad aumentada (AR)** para ofrecer una experiencia transformadora de inmersión histórica. Su propuesta no se limita a complementar el aprendizaje tradicional o el turismo cultural, sino que lo modifica por completo, permitiendo a los usuarios **revivir eventos históricos significativos desde la ubicación exacta en que ocurrieron**. A través de un visor VR o incluso desde la pantalla de un teléfono móvil, el entorno físico actual se convierte en una ventana al pasado, superponiendo recreaciones tridimensionales, paisajes sonoros y animaciones en tiempo real que reconstruyen momentos emblemáticos de la historia.
+<p align="center"><br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzWiuOpJ1U5Szd8RghfM4Fp5F8mTYl5Of3A&s" width="150">
+</p>
 
 ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.006.jpeg)
 
@@ -92,6 +95,7 @@ foto de https://dc-cdn.s3-ap-southeast-1.amazonaws.com </p>
 
 ![](Aspose.Words.04e06d8a-bf6c-420f-bbfb-4c5683cac3d3.008.jpeg)
 
+**Recursos multimedia:**
 - Trailblazers: Como Timelooper te transportara al pasado (2019)[Como Timelooper te transportara al pasado](https://www.youtube.com/watch?v=ifnIF0HUo0M)[](https://www.youtube.com/watch?v=ifnIF0HUo0M)
 - Euronews, Viajando virtualmente en el tiempo - hi-tech (2016) https://www.youtube.com/watch?v=yadmyPLvvWs
 [](https://www.youtube.com/watch?v=ifnIF0HUo0M)
