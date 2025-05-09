@@ -104,9 +104,9 @@ Enlace oficial: <https://timelooper.com/>
 
 -----
 # **CONCLUSIONES** 
-Los casos de Google Lens y Timelooper ilustran de manera contundente cómo el software no solo amplifica las capacidades de los medios tradicionales, sino que los reconfigura y los adapta profundamente, transformando también nuestras formas de percibir e interactuar con la realidad, aplicaciones adaptadas a las nuevas tendencias y necesidades.
+Los casos de **Google Lens** y **Timelooper** ilustran de manera contundente cómo el software no solo amplifica las capacidades de los medios tradicionales, sino que los reconfigura y los adapta profundamente, transformando también nuestras formas de percibir e interactuar con la realidad, **aplicaciones adaptadas a las nuevas tendencias y necesidades**.
 
-Lejos de tratarse de una superposición superficial, la hibridación entre lo físico y lo digital implica una transformación estructural de la percepción, la memoria, el conocimiento y la experiencia del espacio. En el contexto de la cultura digital contemporánea, estas dimensiones ya no pueden entenderse como independientes: el software actúa como un tejido integrador que genera nuevos lenguajes, narrativas emergentes y modos inéditos de vivir y comprender el mundo.
+Lejos de tratarse de una superposición superficial, la hibridación entre lo físico y lo digital implica una transformación estructural de la percepción, la memoria, el conocimiento y la experiencia del espacio. En el contexto de la cultura digital contemporánea, estas dimensiones ya no pueden entenderse como independientes: **el software actúa como un tejido integrador que genera nuevos lenguajes, narrativas emergentes y modos inéditos de vivir y comprender el mundo**.
 
 -----
 # **Referencias bibliográficas**
