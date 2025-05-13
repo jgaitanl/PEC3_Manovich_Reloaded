@@ -110,11 +110,15 @@ Lejos de tratarse de una superposición superficial, la hibridación entre lo f�
 # **Referencias bibliográficas**
 - Manovich, L. (2013). *El software toma el mando* . Editorial UOC.
 - Bolter, J. D., & Grusin, R. (1999). *Remediation: Understanding New Media*. MIT Press.
+- McMillan, Robert (2012). "Lord of the Files: How GitHub Tamed Free Software (And More)".
+- Gea, M (2022): "Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto" (Versión Creative Commons del artículo contenido en libro Transmedialización y crowdsourcing en la cultura mediática contemporánea, J. Alberich D. Sánchez-mesa (eds.) pp 35-57, Ed. Universidad de Granada, ISBN 978-84-338-6929-6 Disponible en Editorial Universidad de Granada.
 - Google Lens. (2025).<https://lens.google/>
 - Timelooper. (sin fecha). Recuperado en abril de 2025 de <https://timelooper.com/>
+- Markdown.es. (sf). Recuperado el 2 de mayo de 2025, de https://markdown.es/sintaxis-markdown/
 - Xataka. (Dakota del Norte). Artículos sobre realidad aumentada y reconocimiento de imágenes. Obtenido de <https://www.xataka.com/>
 - Awwwards. (sf). Inspiración para la innovación digital. Recuperado de <https://www.awwwards.com/>
 - [https://es.m.wikipedia.org/wiki/Archivo:Google\_Lens\_Icon.svg](https://es.m.wikipedia.org/wiki/Archivo:Google%5C_Lens%5C_Icon.svg)
+- Entendiendo los medios híbridos https://manovich.net/index.php/projects/understanding-hybrid-media
 - Video de Youtube [Descrubre mas sobre Google Lens](https://www.youtube.com/watch?v=7yOUpAvckao)
 - Video de Youtube [Como Timelooper te transportara al pasado](https://www.youtube.com/watch?v=ifnIF0HUo0M)
 -----
