@@ -1,4 +1,4 @@
-﻿# ![foto1](https://www.timelooper.com/images/exhibition-design-home/museum_solutions_1.jpg)**PEC3 - Manovich Reloaded**
+﻿# ![foto1](https://www.timelooper.com/images/exhibition-design-home/museum_solutions_1.jpg)**PEC3 - Visionando el futuro con las gafas de Manovich**
 
 **Autor:**  Javier Gaitán Larrubia
 
