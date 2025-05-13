@@ -4,9 +4,7 @@
 
 **Año Lectivo: 2024-25**   **Fecha: 16/05/2025**
 
-**Repositorio: <https://github.com/tuusuario/PEC3_Manovich_Reloaded>**
 
-[](https://github.com/tuusuario/PEC3_Manovich_Reloaded)
 
 -----
 # **Introducción**
