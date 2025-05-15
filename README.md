@@ -48,6 +48,23 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 
 **Google Lens**, por tanto, transforma la cámara de los dispositivos móviles en una **potente interfaz de conocimiento e interacción**. Ya no utilizamos la cámara solo para capturar imágenes; la utilizamos para acceder a **capas invisibles de significado**, para **traducir signos** del mundo físico en información digital accesible, y para **tomar decisiones** basadas en datos interpretados automáticamente. Esta reconfiguración redefine radicalmente nuestra manera de **percibir, comprender y actuar** en el entorno cotidiano, en línea con lo que Lev Manovich describe como la emergencia de una cultura digital completamente **mediada por el software**.
 
+<h3>Forma de hibridación</h3>
+
+**1. Interfaz de navegación:**
+
+- Utiliza la cámara del dispositivo como interfaz activa.
+
+- La navegación es visual y directa, con reconocimiento en tiempo real.
+
+- El usuario apunta la cámara y recibe resultados automáticamente, eliminando la necesidad de escribir. (vease imagenes )
+
+**2. Forma de representación:**
+
+-  Superpone elementos digitales (texto, iconos, traducciones, vínculos) sobre la imagen real.
+
+- Representación aumentada de la realidad, con análisis visual e inteligencia artificial.
+
+
 Esta aplicación es un claro ejemplo de hibridación de medios, donde imagen, texto, datos, localización y algoritmos que se unen en una única experiencia digital. Refleja con precisión lo que **Lev Manovich** define como una cultura mediada por software, en la que los medios ya no son estáticos ni separados, sino integrados, automatizados y adaptativos, reconfigurando radicalmente la relación entre humanos, tecnología y conocimiento.
 
 <h3>Recursos Multimedia :</h3> 
