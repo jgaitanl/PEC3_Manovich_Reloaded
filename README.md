@@ -52,11 +52,11 @@ Esta experiencia representa mucho más que un simple avance tecnológico; implic
 
 **1. Interfaz de navegación:**
 
-- Utiliza la cámara del dispositivo como interfaz activa.
+- Utiliza la cámara del dispositivo movil, tablet, ipad... como interfaz activa.
 
 - La navegación es visual y directa, con reconocimiento en tiempo real.
 
-- El usuario apunta la cámara y recibe resultados automáticamente, eliminando la necesidad de escribir. (vease imagenes )
+- El usuario apunta la cámara y recibe resultados automáticamente, eliminando la necesidad de escribir. (vease imagenes ) Ejemplo de google lens con la opción de traductor
 
 **2. Forma de representación:**
 
@@ -93,6 +93,20 @@ Desde el punto de vista conceptual, esta propuesta responde a las lógicas de lo
 Además, Timelooper se inscribe dentro del concepto de **remediación** propuesto por Bolter y Grusin, al apropiarse de formas tradicionales de representación (el documental, la recreación museográfica, el tour guiado) y adaptarlas a una lógica interactiva y multisensorial. Así, se establece una nueva forma de consumir y producir contenido histórico, donde lo digital no reemplaza al mundo físico, sino que **lo expande, lo resignifica y lo recontextualiza**.
 
 La apuesta va incluso más allá de lo tecnológico: propone una forma de **reencantar la historia**, de devolverle cuerpo, emoción y presencia. En una época en la que el conocimiento tiende a ser fragmentado, acelerado y abstracto, esta plataforma recupera la dimensión **vivencial** del saber histórico. El usuario no solo “aprende” sobre el pasado, sino que lo **experimenta**, lo **recorre** y, en cierto modo, **lo habita**.
+
+<h3>Forma de hibridación</h3>
+
+**1. Interfaz de navegación:**
+
+ - Permite explorar con gafas VR o desde el móvil usando la orientación del dispositivo.
+ - La navegación es espacial y envolvente (usuario gira o camina para descubrir contenido).
+
+**2. Forma de representación:**
+
+- Fusiona imágenes del presente (ubicación real) con reconstrucciones históricas en 360°.
+- Recrea escenas pasadas con sonido, gráficos 3D, y actores digitales superpuestos.
+
+Timelooper hibrida **tiempo - espacio - medios**, combinando documental, realidad virtual y narrativa inmersiva.
 
 En definitiva, este dispositivo representa un claro ejemplo del potencial de las tecnologías emergentes para **transformar nuestra relación con la memoria cultural**, permitiéndonos no solo recordar, sino también vivir el pasado de forma activa, inmersiva y significativa.
 
